@@ -24,50 +24,50 @@ Propriétaires de chiens souhaitant faire garder leur compagnon pendant leurs ab
 
 Les utilisateurs de Puppy Club doivent pouvoir accéder facilement aux informations essentielles et interagir avec le service de garderie. Le site doit permettre :
 
-la consultation des informations de la garderie (horaires, tarifs, services proposés)
+- la consultation des informations de la garderie (horaires, tarifs, services proposés);
 
-la création d’un compte utilisateur
+- la création d’un compte utilisateur;
 
-l’ajout d’une fiche pour leur chien (race, âge, besoins spécifiques)
+- l’ajout d’une fiche pour leur chien (race, âge, besoins spécifiques);
 
-la consultation des disponibilités
+- la consultation des disponibilités;
 
-la réservation de plages horaires en quelques clics
+- la réservation de plages horaires en quelques clics;
 
-la consultation de l’historique des réservations
+- la consultation de l’historique des réservations;
 
-un moyen de contact avec la garderie (formulaire, email, etc.)
+- un moyen de contact avec la garderie (formulaire, email, etc.).
 
 # ⚙️ Besoins techniques
 
 Pour assurer une utilisation fluide et évolutive, Puppy Club doit intégrer un socle technique solide :
 
-un site web responsive, accessible depuis mobile, tablette et ordinateur
+- un site web responsive, accessible depuis mobile, tablette et ordinateur;
 
-une base de données permettant la gestion des utilisateurs, des chiens et des réservations
+- une base de données permettant la gestion des utilisateurs, des chiens et des réservations;
 
-un espace administrateur sécurisé pour gérer le planning et les fiches des chiens
+- un espace administrateur sécurisé pour gérer le planning et les fiches des chiens;
 
-un système d’authentification et de gestion des rôles (utilisateur / administrateur)
+- un système d’authentification et de gestion des rôles (utilisateur / administrateur);
 
-une architecture permettant l’évolution future (ajout de fonctionnalités)
+- une architecture permettant l’évolution future (ajout de fonctionnalités).
 
 # 🧭 Fonctionnalités prioritaires & secondaires
 
 Fonctionnalités prioritaires :
 
-création de compte utilisateur
+- création de compte utilisateur;
 
-gestion du profil du chien
+- gestion du profil du chien;
 
-consultation des disponibilités
+- consultation des disponibilités;
 
-réservation de plages horaires
+- réservation de plages horaires;
 
-espace administrateur (gestion planning et fiches)
+- espace administrateur (gestion planning et fiches).
 
 # Fonctionnalités secondaires (évolutives) :
 
-envoi de notifications (email/SMS)
+- envoi de notifications (email/SMS);
 
-suivi de l’activité du chien (photos, commentaires)
+- suivi de l’activité du chien (photos, commentaires).
