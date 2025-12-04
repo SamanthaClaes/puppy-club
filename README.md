@@ -16,6 +16,7 @@ De nombreux propriétaires de chiens sont contraints de laisser leur animal seul
 L’objectif de Puppy Club est de permettre la réservation de places en garderie canine directement en ligne. Le site offre également un espace administrateur permettant de gérer la garderie, les réservations, les informations des chiens ainsi que leurs besoins spécifiques.
 
 👥 Public cible
+
 Propriétaires de chiens souhaitant faire garder leur compagnon pendant leurs absences.
 
 # 2. Analyse des besoins
