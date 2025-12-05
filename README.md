@@ -20,7 +20,7 @@ L’objectif de Puppy Club est de permettre la réservation de places en garderi
 Propriétaires de chiens souhaitant faire garder leur compagnon pendant leurs absences.
 
 # 2. Analyse des besoins
-Persona 1 — Profil utilisateur
+# Persona 1 — Profil utilisateur
 
 Nom : Marie
 
@@ -30,7 +30,7 @@ Besoins : Cherche quelqu’un pour s’occuper de son lapin, Chester, à domicil
 
 Comportement : Laisse des notes et des consignes pour que la prise en charge de l’animal se déroule sans souci.
 
-Persona 2 — Profil utilisateur
+# Persona 2 — Profil utilisateur
 
 Nom : Louis
 
@@ -40,7 +40,7 @@ Besoins : Cherche à confier son chien à un chenil.
 
 Comportement : Fournit des informations sur les besoins et le caractère de son animal pour assurer un séjour adapté et sécurisé.
 
-Persona 3 — Profil utilisateur
+# Persona 3 — Profil utilisateur
 
 Nom  : Sarah
 
@@ -50,7 +50,7 @@ Besoins : Souhaite qu’une personne passe quelques minutes dans la journée pou
 
 Comportement : Cherche une présence ponctuelle pour assurer le bien‑être de son animal durant son absence quotidienne.
 
-Persona 4 — Profil utilisateur
+# Persona 4 — Profil utilisateur
 
 Nom / Genre : Louise
 
