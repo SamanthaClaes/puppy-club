@@ -22,7 +22,7 @@ Propriétaires de chiens souhaitant faire garder leur compagnon pendant leurs ab
 # 2. Analyse des besoins
 Persona 1 — Profil utilisateur
 
-Nom : [Marie]
+Nom : Marie
 
 Situation : Part en vacances pour une courte durée.
 
@@ -32,7 +32,7 @@ Comportement : Laisse des notes et des consignes pour que la prise en charge de 
 
 Persona 2 — Profil utilisateur
 
-Nom : [Louis]
+Nom : Louis
 
 Situation : Part en vacances pour une longue durée.
 
@@ -42,7 +42,7 @@ Comportement : Fournit des informations sur les besoins et le caractère de son 
 
 Persona 3 — Profil utilisateur
 
-Nom  : [Sarah]
+Nom  : Sarah
 
 Situation : Part travailler la journée et rentre tard le soir.
 
