@@ -2,22 +2,22 @@
 
 Projet de fin d’études
 
-Puppy Club est une application web dédiée à la gestion de réservations en garderie canine. Elle permet aux propriétaires de chiens de programmer des plages horaires de garde en quelques clics, assurant ainsi que leur compagnon ne reste jamais seul durant leurs absences.
+Puppy Club est une application web dédiée à la gestion de réservations en garderie canine. Elle permet aux propriétaires d'animaux de programmer des plages horaires de garde en quelques clics, assurant ainsi que leur compagnon ne reste jamais seul durant leurs absences.
 
-Le projet vise à proposer une solution moderne et intuitive, facilitant la réservation pour les clients tout en offrant à la garderie un outil centralisé pour organiser son planning et suivre chaque chien accueilli.
+Le projet vise à proposer une solution moderne et intuitive, facilitant la réservation pour les clients tout en offrant à la garderie un outil centralisé pour organiser son planning et suivre chaque animal accueilli.
 
 # 1. Présentation du projet
 🎯 Contexte
 
-De nombreux propriétaires de chiens sont contraints de laisser leur animal seul lorsqu’ils partent au travail ou pour toutes autres raisons. Cette situation peut être délicate, autant pour l’animal que pour le propriétaire. Puppy Club répond à cette problématique en proposant une solution simple de réservation en garderie canine, permettant aux chiens de bénéficier d’un environnement sécurisé et d’une présence constante.
+De nombreux propriétaires d'animaux sont contraints de laisser leur animal seul lorsqu’ils partent au travail ou pour toutes autres raisons. Cette situation peut être délicate, autant pour l’animal que pour le propriétaire. Puppy Club répond à cette problématique en proposant une solution simple de réservation en garderie canine, permettant aux chiens de bénéficier d’un environnement sécurisé et d’une présence constante.
 
 🎯 Objectif
 
-L’objectif de Puppy Club est de permettre la réservation de places en garderie canine directement en ligne. Le site offre également un espace administrateur permettant de gérer la garderie, les réservations, les informations des chiens ainsi que leurs besoins spécifiques.
+L’objectif de Puppy Club est de permettre la réservation de places en garderie  directement en ligne. Le site offre également un espace administrateur permettant de gérer la garderie, les réservations, les informations des animaux ainsi que leurs besoins spécifiques.
 
 👥 Public cible
 
-Propriétaires de chiens souhaitant faire garder leur compagnon pendant leurs absences.
+Propriétaires d'animaux souhaitant faire garder leur compagnon pendant leurs absences.
 
 # 2. Analyse des besoins
 # Persona 1 — Profil utilisateur
