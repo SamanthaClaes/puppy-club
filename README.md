@@ -1,4 +1,4 @@
-# 🐾 Puppy Club – Application Web de Gestion de Réservations de Gardes Canines
+# 🐾 Puppy Club – Application Web de Gestion de Réservations de Gardes Animalière
 
 Projet de fin d’études
 
